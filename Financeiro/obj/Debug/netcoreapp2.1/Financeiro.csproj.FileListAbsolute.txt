@@ -1,0 +1,11 @@
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\bin\Debug\netcoreapp2.1\Financeiro.deps.json
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\bin\Debug\netcoreapp2.1\Financeiro.runtimeconfig.json
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\bin\Debug\netcoreapp2.1\Financeiro.runtimeconfig.dev.json
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\bin\Debug\netcoreapp2.1\Financeiro.dll
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\bin\Debug\netcoreapp2.1\Financeiro.pdb
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.csprojAssemblyReference.cache
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.csproj.CoreCompileInputs.cache
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.AssemblyInfoInputs.cache
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.AssemblyInfo.cs
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.dll
+C:\Summer Courser\C#\Lesson 6\Financeiro\Financeiro\obj\Debug\netcoreapp2.1\Financeiro.pdb
